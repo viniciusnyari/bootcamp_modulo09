@@ -78,6 +78,12 @@ yarn add history
   }], <br>
 inside the rules object of the eslintrc file.
 
+## Instalando o `reactotron`
+yarn add reactotron-react-js
+
+yarn start
+
+
 ## Algumas informações
 
 ### Rodando a aplicação - essa configuração está no 'package.json'
