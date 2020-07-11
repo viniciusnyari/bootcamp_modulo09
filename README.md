@@ -66,9 +66,25 @@ plugins: [<br/>
     'import/prefer-default-export': 'off'<br/>
   },  <br/>
 
-## Rodando a aplicação - essa configuração está no 'package.json'
+## Instalando o `react-router-dom` para as nossas rotas
+yarn add react-router-dom
+
+## Instalando o `history` para armazenar os valores de histórico
+yarn add history
+
+## Erros do eslint - `[eslint] Delete 'cr' [prettier/prettier]`
+"prettier/prettier": ["error", { <br>     
+    "endOfLine":"auto" <br>          
+  }], <br>
+inside the rules object of the eslintrc file.
+
+## Algumas informações
+
+### Rodando a aplicação - essa configuração está no 'package.json'
 yarn react-scripts start
 
-## Endereço
+### Endereço
 https://app.rocketseat.com.br/node/gobarber-web
 C:\Temp\Bootcamp2019\bootcamp_modulo09
+
+### Deixar rodando o backend lá do `módulo02` - ver `Informações locais`
