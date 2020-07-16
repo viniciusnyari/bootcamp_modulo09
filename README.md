@@ -76,10 +76,19 @@ yarn add history
 "prettier/prettier": ["error", { <br>     
     "endOfLine":"auto" <br>          
   }], <br>
-inside the rules object of the eslintrc file.
+inside the rules object of the eslintrc file.<br>
+
+Prop spreading is forbiddeneslint <br>
+"react/jsx-props-no-spreading": "off",
 
 ## Instalando o `reactotron`
 yarn add reactotron-react-js
+
+## Instalando o `proptypes`
+yarn add prop-types
+
+## Instalando `tyled-components` para trabalhar com estilos
+yarn add styled-components
 
 yarn start
 
@@ -88,6 +97,10 @@ yarn start
 
 ### Rodando a aplicação - essa configuração está no 'package.json'
 yarn react-scripts start
+
+### Aqui tem o projeto original do `GoBarber`
+https://github.com/Rocketseat/bootcamp-gostack-09/blob/master/src/routes/Route.js
+
 
 ### Endereço
 https://app.rocketseat.com.br/node/gobarber-web
