@@ -90,6 +90,14 @@ yarn add prop-types
 ## Instalando `tyled-components` para trabalhar com estilos
 yarn add styled-components
 
+
+### instalando fonte `roboto`
+https://fonts.google.com/specimen/Roboto?sidebar.open&selection.family=Roboto:ital,wght@0,700;1,400#standard-styles <br>
+<style> <br>
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,700;1,400&display=swap'); <br>
+</style> <br>
+
+
 yarn start
 
 
