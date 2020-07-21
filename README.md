@@ -97,14 +97,25 @@ https://fonts.google.com/specimen/Roboto?sidebar.open&selection.family=Roboto:it
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,700;1,400&display=swap'); <br>
 </style> <br>
 
+### Melhorando as importações (evitando o uso de `../.../`) - Pré <br>
+Esse aqui permite dar override em algumas configurações iniciais (ver config-overrides.js) <br>
+yarn add customize-cra react-app-rewired -D
 
-yarn start
+### Melhorando as importações (evitando o uso de `../.../`) - Pós <br>
+Instalando plugin para fazer import mais 'suaves', no formato conhecido '~/' <br>
+yarn add babel-plugin-root-import -D <br>
+
+### Trocar configurações de `package.json` <br>
+Onde temos `react-scripts` muda-se para `react-app-rewired` <br>
+
+
+ 
 
 
 ## Algumas informações
 
 ### Rodando a aplicação - essa configuração está no 'package.json'
-yarn react-scripts start
+yarn start
 
 ### Aqui tem o projeto original do `GoBarber`
 https://github.com/Rocketseat/bootcamp-gostack-09/blob/master/src/routes/Route.js
