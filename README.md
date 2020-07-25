@@ -125,7 +125,13 @@ yarn add polished
 ### Instalando `rocketseat/unform` que auxilia a construção de formulários<br>
 yarn add @rocketseat/unform
 
+### Instalando `yup` para validação de dados<br>
+Validação de dados tanto em front como back e utiliza o padrão de Schema validation <br>
+yarn add yup
 
+
+
+<br>
 ## Algumas informações
 
 ### Rodando a aplicação - essa configuração está no 'package.json'
