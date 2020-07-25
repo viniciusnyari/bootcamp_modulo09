@@ -129,6 +129,8 @@ yarn add @rocketseat/unform
 Validação de dados tanto em front como back e utiliza o padrão de Schema validation <br>
 yarn add yup
 
+### Instalando `redux` para store<br>
+yarn add redux redux-saga react-redux reactotron-redux reactotron-redux-saga imer
 
 
 <br>
@@ -138,7 +140,7 @@ yarn add yup
 yarn start
 
 ### Aqui tem o projeto original do `GoBarber`
-https://github.com/Rocketseat/bootcamp-gostack-09/blob/master/src/routes/Route.js
+https://github.com/Rocketseat/bootcamp-gostack-09/
 
 
 ### Endereço
@@ -158,7 +160,7 @@ C:\Temp\Bootcamp2019\bootcamp_modulo09
     "date-fns": "^2.0.0-beta.2", <br>
     "date-fns-tz": "^1.0.7", <br>
     "history": "^4.9.0", <br>
-    "immer": "^3.1.3", <br>
+    "immer": "^3.1.3", <br> 
     "polished": "^3.4.1", <br>
     "prop-types": "^15.7.2", <br>
     "react": "^16.8.6", <br>
