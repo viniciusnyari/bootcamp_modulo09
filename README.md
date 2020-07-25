@@ -130,8 +130,10 @@ Validação de dados tanto em front como back e utiliza o padrão de Schema vali
 yarn add yup
 
 ### Instalando `redux` para store<br>
-yarn add redux redux-saga react-redux reactotron-redux reactotron-redux-saga imer
+yarn add redux redux-saga react-redux reactotron-redux reactotron-redux-saga immer
 
+### Instalando `axios` para fazer as chamadas a API<br>
+yarn add axios
 
 <br>
 ## Algumas informações
@@ -147,8 +149,28 @@ https://github.com/Rocketseat/bootcamp-gostack-09/
 https://app.rocketseat.com.br/node/gobarber-web
 C:\Temp\Bootcamp2019\bootcamp_modulo09
 
-### Deixar rodando o backend lá do `módulo02` - ver `Informações locais`
+### Deixar rodando o backend lá do `módulo02` - ver `Informações locais` <br>
+C:\Temp\Bootcamp2019\bootcamp_modulo02 <br>
 
+Deixar os serviços do docker rodando - subir docker desktop<br>
+PS C:\Temp\Bootcamp2019\bootcamp_modulo02> docker ps -a <br>
+PS C:\Temp\Bootcamp2019\bootcamp_modulo02> docker start database <br>
+PS C:\Temp\Bootcamp2019\bootcamp_modulo02> docker start mongobarber <br>
+PS C:\Temp\Bootcamp2019\bootcamp_modulo02> docker start redisbarber <br>
+
+Deixar rodando o servidor backend <br>
+Em um outro terminal, acessar essa pasta `C:\Temp\Bootcamp2019\bootcamp_modulo02` e rodar `yarn sucrase-node src/server.js`
+
+<br>
+
+"email": "provider@gmail.com" e  "provider@gmail.com" tem a mesma senha: "123456789"
+
+<br>
+Token provider = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MywiaWF0IjoxNTk1NzExMzg0LCJleHAiOjE1OTYzMTYxODR9.cXyz6nMUHPEjDTf3oCxTnKLFO-5fUcxByw3n2xXtdqA"
+
+<br>
+Token user = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NCwiaWF0IjoxNTk1NzExNTIyLCJleHAiOjE1OTYzMTYzMjJ9.LNVe2t8fqBQN0hKqa9mo_Gp5ttGS53qY4BoouvLVD44"
+<br>
 ### package.json
 { <br>
   "name": "modulo09", <br>
