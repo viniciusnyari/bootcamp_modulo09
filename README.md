@@ -115,9 +115,9 @@ settings: { <br>
     "import/resolver":{ <br>
       "babel-plugin-root-import" :{ <br>
         rootPathSuffix:"src", <br>
-      }, <br>
-    } <br>
-  } <br>
+      }, 
+    } 
+  } 
  
 
 
@@ -137,72 +137,72 @@ C:\Temp\Bootcamp2019\bootcamp_modulo09
 ### Deixar rodando o backend lá do `módulo02` - ver `Informações locais`
 
 ### package.json
-{
-  "name": "modulo09",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "@rocketseat/unform": "^1.5.1",
-    "axios": "^0.19.0",
-    "date-fns": "^2.0.0-beta.2",
-    "date-fns-tz": "^1.0.7",
-    "history": "^4.9.0",
-    "immer": "^3.1.3",
-    "polished": "^3.4.1",
-    "prop-types": "^15.7.2",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-icons": "^3.7.0",
-    "react-perfect-scrollbar": "^1.5.3",
-    "react-redux": "^7.1.0",
-    "react-router-dom": "^5.0.1",
-    "react-scripts": "3.0.1",
-    "react-toastify": "^5.3.1",
-    "reactotron-react-js": "^3.3.2",
-    "reactotron-redux": "^3.1.1",
-    "reactotron-redux-saga": "^4.2.2",
-    "redux": "^4.0.4",
-    "redux-persist": "^5.10.0",
-    "redux-saga": "^1.0.5",
-    "styled-components": "^4.3.2",
-    "yup": "^0.27.0"
-  },
-  "scripts": {
-    "start": "react-app-rewired start",
-    "build": "react-app-rewired build",
-    "test": "react-app-rewired test",
-    "eject": "react-scripts eject"
-  },
-  "eslintConfig": {
-    "extends": "react-app"
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  },
-  "devDependencies": {
-    "babel-eslint": "10.0.1",
-    "babel-plugin-root-import": "^6.2.0",
-    "customize-cra": "^0.2.14",
-    "eslint": "^5.16.0",
-    "eslint-config-airbnb": "^17.1.1",
-    "eslint-config-prettier": "^6.0.0",
-    "eslint-import-resolver-babel-plugin-root-import": "^1.1.1",
-    "eslint-plugin-import": "^2.18.0",
-    "eslint-plugin-jsx-a11y": "^6.2.3",
-    "eslint-plugin-prettier": "^3.1.0",
-    "eslint-plugin-react": "^7.14.2",
-    "eslint-plugin-react-hooks": "^1.6.1",
-    "prettier": "^1.18.2",
-    "react-app-rewired": "^2.1.3"
-  }
+{ <br>
+  "name": "modulo09", <br>
+  "version": "0.1.0", <br>
+  "private": true, <br>
+  "dependencies": { <br>
+    "@rocketseat/unform": "^1.5.1", <br>
+    "axios": "^0.19.0", <br>
+    "date-fns": "^2.0.0-beta.2", <br>
+    "date-fns-tz": "^1.0.7", <br>
+    "history": "^4.9.0", <br>
+    "immer": "^3.1.3", <br>
+    "polished": "^3.4.1", <br>
+    "prop-types": "^15.7.2", <br>
+    "react": "^16.8.6", <br>
+    "react-dom": "^16.8.6", <br>
+    "react-icons": "^3.7.0", <br>
+    "react-perfect-scrollbar": "^1.5.3", <br>
+    "react-redux": "^7.1.0", <br>
+    "react-router-dom": "^5.0.1", <br>
+    "react-scripts": "3.0.1", <br>
+    "react-toastify": "^5.3.1", <br>
+    "reactotron-react-js": "^3.3.2", <br>
+    "reactotron-redux": "^3.1.1", <br>
+    "reactotron-redux-saga": "^4.2.2", <br>
+    "redux": "^4.0.4", <br>
+    "redux-persist": "^5.10.0", <br>
+    "redux-saga": "^1.0.5", <br>
+    "styled-components": "^4.3.2", <br>
+    "yup": "^0.27.0" <br>
+  }, <br>
+  "scripts": { <br>
+    "start": "react-app-rewired start", <br>
+    "build": "react-app-rewired build", <br>
+    "test": "react-app-rewired test", <br>
+    "eject": "react-scripts eject" <br>
+  }, <br>
+  "eslintConfig": { <br>
+    "extends": "react-app" <br>
+  }, <br>
+  "browserslist": { <br>
+    "production": [ <br>
+      ">0.2%", <br>
+      "not dead", <br>
+      "not op_mini all" <br>
+    ], <br>
+    "development": [ <br>
+      "last 1 chrome version", <br>
+      "last 1 firefox version", <br>
+      "last 1 safari version" <br>
+    ] <br>
+  }, <br>
+  "devDependencies": { <br>
+    "babel-eslint": "10.0.1", <br>
+    "babel-plugin-root-import": "^6.2.0", <br>
+    "customize-cra": "^0.2.14", <br>
+    "eslint": "^5.16.0", <br>
+    "eslint-config-airbnb": "^17.1.1", <br>
+    "eslint-config-prettier": "^6.0.0", <br>
+    "eslint-import-resolver-babel-plugin-root-import": "^1.1.1", <br>
+    "eslint-plugin-import": "^2.18.0", <br>
+    "eslint-plugin-jsx-a11y": "^6.2.3", <br>
+    "eslint-plugin-prettier": "^3.1.0", <br>
+    "eslint-plugin-react": "^7.14.2", <br>
+    "eslint-plugin-react-hooks": "^1.6.1", <br>
+    "prettier": "^1.18.2", <br>
+    "react-app-rewired": "^2.1.3" <br>
+  } <br>
 }
     
