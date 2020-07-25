@@ -119,6 +119,8 @@ settings: { <br>
     } 
   } 
  
+### Instalando `polished` para trabalhar com cores<br>
+yarn add polished
 
 
 ## Algumas informações
