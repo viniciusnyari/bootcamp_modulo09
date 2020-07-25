@@ -119,8 +119,11 @@ settings: { <br>
     } 
   } 
  
-### Instalando `polished` para trabalhar com cores<br>
+### Instalando `polished` para trabalhar com cores -  deixa uma cor um pouco mais escura<br>
 yarn add polished
+
+### Instalando `rocketseat/unform` que auxilia a construção de formulários<br>
+yarn add @rocketseat/unform
 
 
 ## Algumas informações
