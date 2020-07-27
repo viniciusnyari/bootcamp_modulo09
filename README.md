@@ -141,6 +141,10 @@ yarn add redux-persist
 ### Instalando `react-toastify` para exibir mensagens<br>
 yarn add react-toastify
 
+### Criando avatar<br>
+http://avatars.adorable.io/ <br>
+Copie e cole 'https://api.adorable.io/avatars/50/abott@adorable.png' <br>
+
 <br>
 ## Algumas informações
 
