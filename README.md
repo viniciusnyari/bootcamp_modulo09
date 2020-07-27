@@ -135,6 +135,9 @@ yarn add redux redux-saga react-redux reactotron-redux reactotron-redux-saga imm
 ### Instalando `axios` para fazer as chamadas a API<br>
 yarn add axios
 
+### Instalando `redux-persist` para armazenar as informações do usuário no localStorage<br>
+yarn add redux-persist
+
 <br>
 ## Algumas informações
 
