@@ -138,6 +138,9 @@ yarn add axios
 ### Instalando `redux-persist` para armazenar as informações do usuário no localStorage<br>
 yarn add redux-persist
 
+### Instalando `react-toastify` para exibir mensagens<br>
+yarn add react-toastify
+
 <br>
 ## Algumas informações
 
