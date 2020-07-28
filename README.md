@@ -151,6 +151,14 @@ yarn add react-icons
 ### Instalando `react-perfect-scrollbar` para aplicar barra de rolagem<br>
 yarn add react-perfect-scrollbar
 
+### Instalando `date-fns@next` trabalhar com datas<br>
+yarn add date-fns@next
+06:45
+
+PAREI aqui
+https://app.rocketseat.com.br/node/gobarber-web/group/configurando-o-header-e-notificacoes/lesson/notificacoes-2
+
+
 
 <br>
 ## Algumas informações
