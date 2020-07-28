@@ -145,6 +145,13 @@ yarn add react-toastify
 http://avatars.adorable.io/ <br>
 Copie e cole 'https://api.adorable.io/avatars/50/abott@adorable.png' <br>
 
+### Instalando `react-icons` para exibir ícones<br>
+yarn add react-icons
+
+### Instalando `react-perfect-scrollbar` para aplicar barra de rolagem<br>
+yarn add react-perfect-scrollbar
+
+
 <br>
 ## Algumas informações
 
