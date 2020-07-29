@@ -153,11 +153,6 @@ yarn add react-perfect-scrollbar
 
 ### Instalando `date-fns@next` trabalhar com datas<br>
 yarn add date-fns@next
-06:45
-
-PAREI aqui
-https://app.rocketseat.com.br/node/gobarber-web/group/configurando-o-header-e-notificacoes/lesson/notificacoes-2
-
 
 
 <br>
@@ -184,7 +179,8 @@ PS C:\Temp\Bootcamp2019\bootcamp_modulo02> docker start mongobarber <br>
 PS C:\Temp\Bootcamp2019\bootcamp_modulo02> docker start redisbarber <br>
 
 Deixar rodando o servidor backend <br>
-Em um outro terminal, acessar essa pasta `C:\Temp\Bootcamp2019\bootcamp_modulo02` e rodar `yarn sucrase-node src/server.js`
+Em um outro terminal, acessar essa pasta `C:\Temp\Bootcamp2019\bootcamp_modulo02` 
+e rodar `yarn sucrase-node src/server.js`
 
 <br>
 
