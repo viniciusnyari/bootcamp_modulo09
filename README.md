@@ -265,4 +265,7 @@ Token demoprestador@gmailuser = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ni
     "react-app-rewired": "^2.1.3" <br>
   } <br>
 }
+
+### Debugar vscode
+https://medium.com/code-prestige/debugando-react-com-o-vscode-efffc6f08233
     
