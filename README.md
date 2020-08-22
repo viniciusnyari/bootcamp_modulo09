@@ -169,6 +169,9 @@ https://github.com/Rocketseat/bootcamp-gostack-09/
 https://app.rocketseat.com.br/node/gobarber-web
 C:\Temp\Bootcamp2019\bootcamp_modulo09
 
+Não está atualizando perfil por que a senha é obrigatória
+05:42
+
 ### Deixar rodando o backend lá do `módulo02` - ver `Informações locais` <br>
 C:\Temp\Bootcamp2019\bootcamp_modulo02 <br>
 
@@ -184,13 +187,14 @@ e rodar `yarn sucrase-node src/server.js`
 
 <br>
 
-"email": "provider@gmail.com" e  "provider@gmail.com" tem a mesma senha: "123456789"
+"email": "provider@gmail.com" e  "demoprestador@gmail.com" tem a mesma senha: "123456789"
 
 <br>
-Token provider = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MywiaWF0IjoxNTk1NzExMzg0LCJleHAiOjE1OTYzMTYxODR9.cXyz6nMUHPEjDTf3oCxTnKLFO-5fUcxByw3n2xXtdqA"
+Token provider = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MywiaWF0IjoxNTk3ODM3NjExLCJleHAiOjE1OTg0NDI0MTF9.N4yeO-Od19YFsbXuVndhD3rXIi7zV3R_Xpy7-gLdRPU"
 
 <br>
-Token user = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NCwiaWF0IjoxNTk1NzExNTIyLCJleHAiOjE1OTYzMTYzMjJ9.LNVe2t8fqBQN0hKqa9mo_Gp5ttGS53qY4BoouvLVD44"
+Token demoprestador@gmailuser = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NiwiaWF0IjoxNTk3ODM3NjkwLCJleHAiOjE1OTg0NDI0OTB9.Y_SrYLMQIOE5RiiEFyaRm8JZClZJkVToygud4xKniws"
+
 <br>
 ### package.json
 { <br>
