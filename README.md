@@ -169,8 +169,8 @@ https://github.com/Rocketseat/bootcamp-gostack-09/
 https://app.rocketseat.com.br/node/gobarber-web
 C:\Temp\Bootcamp2019\bootcamp_modulo09
 
-10:19 de 'https://app.rocketseat.com.br/node/gobarber-web/group/funcionalidades-do-perfil/lesson/foto-de-perfil-1'
-Não foi testado o upload
+1:09 de 'Listando agendamentos'
+
 
 ### Deixar rodando o backend lá do `módulo02` - ver `Informações locais` <br>
 C:\Temp\Bootcamp2019\bootcamp_modulo02 <br>
