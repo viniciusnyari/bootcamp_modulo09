@@ -154,6 +154,8 @@ yarn add react-perfect-scrollbar
 ### Instalando `date-fns@next` trabalhar com datas<br>
 yarn add date-fns@next
 
+### Instalando uma biblioteca para trabalhar com TimeZone
+yarn add date-fns-tz
 
 <br>
 ## Algumas informações
