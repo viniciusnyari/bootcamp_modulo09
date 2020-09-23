@@ -171,7 +171,7 @@ https://github.com/Rocketseat/bootcamp-gostack-09/
 https://app.rocketseat.com.br/node/gobarber-web
 C:\Temp\Bootcamp2019\bootcamp_modulo09
 
-1:09 de 'Listando agendamentos'
+Terminado o módulo e ficou a persistência do browser
 
 
 ### Deixar rodando o backend lá do `módulo02` - ver `Informações locais` <br>
