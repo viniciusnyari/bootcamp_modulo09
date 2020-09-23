@@ -6,6 +6,7 @@ import {
   setHours,
   setMinutes,
   setSeconds,
+  setMilliseconds,
   isBefore,
   isEqual,
   parseISO,
@@ -40,19 +41,16 @@ function Dashboard() {
 
       const data = range.map((hour) => {
         // Para que a hora esteja cheia como é feita no 'range'
-        const checkDate = setSeconds(setMinutes(setHours(date, hour), 0), 0);
+        const checkDate = setMilliseconds(
+          setSeconds(setMinutes(setHours(date, hour), 0), 0),
+          0
+        );
         const compareDate = utcToZonedTime(checkDate, timezone);
-
         return {
           time: `${hour}:00h`,
           past: isBefore(compareDate, new Date()),
           appointment: response.data.find((a) =>
-            // console.tron.log(`isEqual..: ${isEqual(parseISO(a.date), compareDate)}`)
-            // console.tron.log(`isEqual(parseISO..: ${parseISO(a.date)}`)
-            // console.tron.log(`compareDate..: ${compareDate}`)
-
-            /* não está fazendo esse equals coretamente */
-            isEqual(parseISO(a.date), compareDate)
+            isEqual(utcToZonedTime(parseISO(a.date), timezone), compareDate)
           ),
         };
       });
