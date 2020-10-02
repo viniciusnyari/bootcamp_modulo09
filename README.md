@@ -167,23 +167,22 @@ yarn start
 https://github.com/Rocketseat/bootcamp-gostack-09/
 
 
-### Endereço
+### Endereço do treinamento
 https://app.rocketseat.com.br/node/gobarber-web
+
+### Endereço do projeto GoBarber Web
 C:\Temp\Bootcamp2019\bootcamp_modulo09
-
-Terminado o módulo e ficou a persistência do browser
-
 
 ### Deixar rodando o backend lá do `módulo02` - ver `Informações locais` <br>
 C:\Temp\Bootcamp2019\bootcamp_modulo02 <br>
 
-Deixar os serviços do docker rodando - subir docker desktop<br>
+### Deixar os serviços do docker rodando - subir docker desktop<br>
 PS C:\Temp\Bootcamp2019\bootcamp_modulo02> docker ps -a <br>
 PS C:\Temp\Bootcamp2019\bootcamp_modulo02> docker start database <br>
 PS C:\Temp\Bootcamp2019\bootcamp_modulo02> docker start mongobarber <br>
 PS C:\Temp\Bootcamp2019\bootcamp_modulo02> docker start redisbarber <br>
 
-Deixar rodando o servidor backend <br>
+### Deixar rodando o servidor backend <br>
 Em um outro terminal, acessar essa pasta `C:\Temp\Bootcamp2019\bootcamp_modulo02` 
 e rodar `yarn sucrase-node src/server.js`
 
